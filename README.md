@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+welcome!;My+Name+is+Juan!;Graduating+In+Data+Science!)](https://git.io/typing-svg)
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://giphy.com/gifs/the-matrix-WoD6JZnwap6s8" align="right"/>
 
 ### 🛠 &nbsp;Skills
 
