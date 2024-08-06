@@ -26,12 +26,12 @@
       <a href="https://www.linkedin.com/in/juan-nogueira-a9329a216/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://mailto:gleilsonsvo@gmail.com" target="blank"><img align="center"
+      <a href="https://mailto:juanmatheusdsn@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
   <p align="center">
-      <a href="https://instagram.com/gleilson.pedro" target="blank"><img align="center"
+      <a href="https://www.instagram.com/juanf.e36?igsh=aXhqeWZjZTc4dnZu" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="azzar" height="30"/></a>
   </samp>
