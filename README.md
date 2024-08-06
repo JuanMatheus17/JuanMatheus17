@@ -23,7 +23,7 @@
     <h2 align="center">😎 Onde pode me contactar:</h2>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/gleilson-pedro/" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/juan-nogueira-a9329a216/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="https://mailto:gleilsonsvo@gmail.com" target="blank"><img align="center"
